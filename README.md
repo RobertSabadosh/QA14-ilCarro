@@ -1,1 +1,2 @@
-# QA14-ilCarro
+# QA14_ilCarro
+Selenium-java tests for "ilCarro" web site

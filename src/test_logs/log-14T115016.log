@@ -1,0 +1,3 @@
+11:50:20.979 [main] INFO  com.ilCarro.qa14.tests.TestBase - Start test loginRegisteredUserPositiveTest
+11:50:22.225 [main] INFO  com.ilCarro.qa14.tests.TestBase - Stop test loginRegisteredUserPositiveTest
+11:50:22.225 [main] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
