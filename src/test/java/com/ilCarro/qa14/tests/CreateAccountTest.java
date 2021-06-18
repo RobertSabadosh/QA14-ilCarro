@@ -2,13 +2,7 @@ package com.ilCarro.qa14.tests;
 
 import com.ilCarro.qa14.models.User;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-
-import java.io.*;
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
 
 public class CreateAccountTest extends TestBase {
 
@@ -35,7 +29,7 @@ public class CreateAccountTest extends TestBase {
         app.user().isLogInFormPresent();
     }
 
-    @Test(dataProvider = "validUser", dataProviderClass = DataProviders.class)
+    @Test(enabled = false, dataProvider = "validUser", dataProviderClass = DataProviders.class)
     public void signUpFromDataProviderTest(String fName, String sName, String email, String password) {
         app.header().clickOnSignUpTab();
         app.user().isSignUpFormPresent();
@@ -53,7 +47,7 @@ public class CreateAccountTest extends TestBase {
         app.user().isLogInFormPresent();
     }
 
-    @Test(dataProvider = "validUserFromCSV", dataProviderClass = DataProviders.class)
+    @Test(enabled = false, dataProvider = "validUserFromCSV", dataProviderClass = DataProviders.class)
     public void signUpFromDataProviderFromCSVTest(User user) {
         app.header().clickOnSignUpTab();
         app.user().isSignUpFormPresent();

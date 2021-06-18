@@ -1,0 +1,382 @@
+11:08:35.093 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test loginRegisteredUserPositiveFromCSVTest with data: [User{firstName='null', secondName='null', email='ma@gm.co', password='Mh1234567'}]
+11:08:35.101 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:08:35.142 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:08:35.150 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //ul[@class='header__nav desktop']/li[5]
+11:08:35.182 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //ul[@class='header__nav desktop']/li[5]found. 
+11:08:35.350 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [name='email']
+11:08:35.374 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [name='email']found. 
+11:08:35.430 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [name='email']
+11:08:35.446 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [name='email']found. 
+11:08:35.550 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.name: password
+11:08:35.566 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.name: passwordfound. 
+11:08:35.614 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.name: password
+11:08:35.630 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.name: passwordfound. 
+11:08:35.694 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:08:35.710 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:08:35.774 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //a[contains(.,'logOut')]
+11:08:36.283 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //a[contains(.,'logOut')]found. 
+11:08:36.291 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - PASSED: test method loginRegisteredUserPositiveFromCSVTest
+11:08:36.291 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:08:36.291 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test loginRegisteredUserPositiveFromCSVTest with data: [User{firstName='null', secondName='null', email='ma+1@gm.co', password='Mh1234568'}]
+11:08:36.291 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:08:46.335 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:08:46.350 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //a[contains(.,'logOut')]
+11:08:46.397 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //a[contains(.,'logOut')]found. 
+11:08:46.559 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //ul[@class='header__nav desktop']/li[5]
+11:08:46.585 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //ul[@class='header__nav desktop']/li[5]found. 
+11:08:46.641 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [name='email']
+11:08:46.649 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [name='email']found. 
+11:08:46.697 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [name='email']
+11:08:46.721 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [name='email']found. 
+11:08:46.793 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.name: password
+11:08:46.817 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.name: passwordfound. 
+11:08:46.873 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.name: password
+11:08:46.897 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.name: passwordfound. 
+11:08:46.949 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:08:46.965 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:08:47.021 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //a[contains(.,'logOut')]
+11:08:47.453 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //a[contains(.,'logOut')]found. 
+11:08:47.453 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - PASSED: test method loginRegisteredUserPositiveFromCSVTest
+11:08:47.453 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:08:47.453 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test loginRegisteredUserPositiveFromCSVTest with data: [User{firstName='null', secondName='null', email='ma+2@gm.co', password='Mh1234569'}]
+11:08:47.461 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:08:57.515 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:08:57.515 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //a[contains(.,'logOut')]
+11:08:57.546 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //a[contains(.,'logOut')]found. 
+11:08:57.679 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //ul[@class='header__nav desktop']/li[5]
+11:08:57.695 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //ul[@class='header__nav desktop']/li[5]found. 
+11:08:57.739 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [name='email']
+11:08:57.771 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [name='email']found. 
+11:08:57.817 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [name='email']
+11:08:57.842 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [name='email']found. 
+11:08:57.927 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.name: password
+11:08:57.951 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.name: passwordfound. 
+11:08:58.007 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.name: password
+11:08:58.024 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.name: passwordfound. 
+11:08:58.095 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:08:58.119 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:08:58.175 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //a[contains(.,'logOut')]
+11:08:58.463 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //a[contains(.,'logOut')]found. 
+11:08:58.463 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - PASSED: test method loginRegisteredUserPositiveFromCSVTest
+11:08:58.463 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:08:58.471 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test loginRegisteredUserPositiveFromCSVTest with data: [User{firstName='null', secondName='null', email='ma+3@gm.co', password='Mh1234570'}]
+11:08:58.471 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:09:08.541 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:09:08.541 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //a[contains(.,'logOut')]
+11:09:08.573 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //a[contains(.,'logOut')]found. 
+11:09:08.757 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //ul[@class='header__nav desktop']/li[5]
+11:09:08.789 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //ul[@class='header__nav desktop']/li[5]found. 
+11:09:08.853 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [name='email']
+11:09:08.877 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [name='email']found. 
+11:09:08.925 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [name='email']
+11:09:08.941 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [name='email']found. 
+11:09:09.021 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.name: password
+11:09:09.045 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.name: passwordfound. 
+11:09:09.109 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.name: password
+11:09:09.125 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.name: passwordfound. 
+11:09:09.178 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:09:09.194 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:09:09.258 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //a[contains(.,'logOut')]
+11:09:09.642 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //a[contains(.,'logOut')]found. 
+11:09:09.650 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - PASSED: test method loginRegisteredUserPositiveFromCSVTest
+11:09:09.650 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:09:09.658 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test loginRegisteredUserPositiveTest with data: []
+11:09:09.658 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:09:19.719 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:09:19.719 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //a[contains(.,'logOut')]
+11:09:19.766 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //a[contains(.,'logOut')]found. 
+11:09:19.953 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //ul[@class='header__nav desktop']/li[5]
+11:09:19.977 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //ul[@class='header__nav desktop']/li[5]found. 
+11:09:20.051 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [name='email']
+11:09:20.083 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [name='email']found. 
+11:09:20.157 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [name='email']
+11:09:20.173 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [name='email']found. 
+11:09:20.276 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.name: password
+11:09:20.292 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.name: passwordfound. 
+11:09:20.348 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.name: password
+11:09:20.372 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.name: passwordfound. 
+11:09:20.443 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:09:20.467 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:09:20.523 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //a[contains(.,'logOut')]
+11:09:20.947 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //a[contains(.,'logOut')]found. 
+11:09:20.955 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - PASSED: test method loginRegisteredUserPositiveTest
+11:09:20.955 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:09:20.971 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test signUpFromDataProviderFromCSVTest with data: [User{firstName='Mats', secondName='Hummels', email='ma@gm.co', password='Mh1234567'}]
+11:09:20.971 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:09:31.035 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:09:31.051 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.xpath: //a[contains(.,'logOut')]
+11:09:31.082 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.xpath: //a[contains(.,'logOut')]found. 
+11:09:31.265 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:09:31.303 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:09:31.423 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: form.signup__fields
+11:09:31.447 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: form.signup__fieldsfound. 
+11:09:31.447 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:09:31.519 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:09:31.583 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:09:31.607 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:09:31.647 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:09:31.671 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:09:31.719 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:09:31.727 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:09:31.783 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:09:31.799 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:09:31.847 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:09:31.855 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:09:31.927 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:09:31.943 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:09:31.991 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:09:32.007 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:09:32.055 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #check_policy
+11:09:32.071 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #check_policyfound. 
+11:09:32.119 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:09:32.127 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:09:32.175 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:09:42.218 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:09:42.233 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Login form present. Actual result: false. Expected result: true.
+11:09:42.233 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:09:52.294 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:09:52.858 [Test worker] ERROR com.ilCarro.qa14.tests.TestBase - FAILED: Test method signUpFromDataProviderFromCSVTest
+Screenshot: C:\IdeaProjects\QA14Projects\QA14-ilCarro\screenshot\screen1623920992827.png
+11:09:52.858 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:09:52.858 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test signUpFromDataProviderFromCSVTest with data: [User{firstName='Mats', secondName='Hummels', email='ma+1@gm.co', password='Mh1234568'}]
+11:09:52.858 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:09:52.874 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:09:52.874 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:09:52.889 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:09:52.942 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: form.signup__fields
+11:09:52.959 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: form.signup__fieldsfound. 
+11:09:52.966 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:09:52.975 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:09:53.030 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:09:53.054 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:09:53.110 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:09:53.134 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:09:53.190 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:09:53.206 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:09:53.294 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:09:53.318 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:09:53.366 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:09:53.398 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:09:53.582 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:09:53.598 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:09:53.638 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:09:53.678 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:09:53.734 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #check_policy
+11:09:53.750 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #check_policyfound. 
+11:09:53.790 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:09:53.798 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:09:53.838 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:10:03.916 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:10:03.916 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Login form present. Actual result: false. Expected result: true.
+11:10:03.924 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:10:13.962 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:10:14.586 [Test worker] ERROR com.ilCarro.qa14.tests.TestBase - FAILED: Test method signUpFromDataProviderFromCSVTest
+Screenshot: C:\IdeaProjects\QA14Projects\QA14-ilCarro\screenshot\screen1623921014570.png
+11:10:14.586 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:10:14.586 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test signUpFromDataProviderFromCSVTest with data: [User{firstName='Mats', secondName='Hummels', email='ma+2@gm.co', password='Mh1234569'}]
+11:10:14.586 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:10:14.602 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:10:14.602 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:10:14.618 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:10:14.674 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: form.signup__fields
+11:10:14.698 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: form.signup__fieldsfound. 
+11:10:14.698 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:10:14.722 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:10:14.794 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:10:14.810 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:10:14.874 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:10:14.898 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:10:14.986 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:10:15.010 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:10:15.066 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:10:15.082 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:10:15.138 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:10:15.162 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:10:15.274 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:10:15.290 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:10:15.338 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:10:15.370 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:10:15.434 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #check_policy
+11:10:15.458 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #check_policyfound. 
+11:10:15.514 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:10:15.530 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:10:15.586 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:10:25.651 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:10:25.651 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Login form present. Actual result: false. Expected result: true.
+11:10:25.651 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:10:35.668 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:10:36.275 [Test worker] ERROR com.ilCarro.qa14.tests.TestBase - FAILED: Test method signUpFromDataProviderFromCSVTest
+Screenshot: C:\IdeaProjects\QA14Projects\QA14-ilCarro\screenshot\screen1623921036270.png
+11:10:36.275 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:10:36.276 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test signUpFromDataProviderFromCSVTest with data: [User{firstName='Mats', secondName='Hummels', email='ma+3@gm.co', password='Mh1234570'}]
+11:10:36.276 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:10:36.296 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:10:36.297 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:10:36.311 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:10:36.370 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: form.signup__fields
+11:10:36.397 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: form.signup__fieldsfound. 
+11:10:36.398 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:10:36.412 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:10:36.463 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:10:36.491 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:10:36.576 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:10:36.609 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:10:36.688 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:10:36.710 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:10:36.766 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:10:36.790 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:10:36.834 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:10:36.852 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:10:36.934 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:10:36.947 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:10:36.994 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:10:37.012 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:10:37.076 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #check_policy
+11:10:37.091 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #check_policyfound. 
+11:10:37.138 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:10:37.153 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:10:37.195 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:10:47.241 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:10:47.241 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Login form present. Actual result: false. Expected result: true.
+11:10:47.241 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:10:57.273 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:10:57.809 [Test worker] ERROR com.ilCarro.qa14.tests.TestBase - FAILED: Test method signUpFromDataProviderFromCSVTest
+Screenshot: C:\IdeaProjects\QA14Projects\QA14-ilCarro\screenshot\screen1623921057801.png
+11:10:57.809 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:10:57.809 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test signUpFromDataProviderTest with data: [fName, sName, fName+1@gm.co, Fnnnnn123456]
+11:10:57.809 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:10:57.825 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:10:57.825 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:10:57.841 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:10:57.882 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: form.signup__fields
+11:10:57.890 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: form.signup__fieldsfound. 
+11:10:57.890 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:10:57.906 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:10:57.962 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:10:57.986 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:10:58.042 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:10:58.058 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:10:58.106 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:10:58.122 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:10:58.202 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:10:58.226 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:10:58.290 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:10:58.306 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:10:58.402 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:10:58.418 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:10:58.458 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:10:58.466 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:10:58.530 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #check_policy
+11:10:58.554 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #check_policyfound. 
+11:10:58.586 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:10:58.602 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:10:58.634 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:11:08.672 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:11:08.672 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Login form present. Actual result: false. Expected result: true.
+11:11:08.672 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:11:18.702 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:11:19.202 [Test worker] ERROR com.ilCarro.qa14.tests.TestBase - FAILED: Test method signUpFromDataProviderTest
+Screenshot: C:\IdeaProjects\QA14Projects\QA14-ilCarro\screenshot\screen1623921079186.png
+11:11:19.202 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:11:19.202 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test signUpFromDataProviderTest with data: [fName, sName, fNames+1@gm.co, Fnnnnn123456]
+11:11:19.202 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:11:19.217 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:11:19.217 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:11:19.234 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:11:19.282 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: form.signup__fields
+11:11:19.298 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: form.signup__fieldsfound. 
+11:11:19.298 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:11:19.307 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:11:19.346 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:11:19.362 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:11:19.402 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:11:19.410 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:11:19.458 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:11:19.482 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:11:19.542 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:11:19.566 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:11:19.613 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:11:19.629 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:11:19.774 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:11:19.798 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:11:19.897 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:11:19.921 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:11:20.053 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #check_policy
+11:11:20.085 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #check_policyfound. 
+11:11:20.214 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:11:20.238 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:11:20.304 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:11:30.351 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:11:30.351 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Login form present. Actual result: false. Expected result: true.
+11:11:30.351 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:11:40.392 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:11:40.820 [Test worker] ERROR com.ilCarro.qa14.tests.TestBase - FAILED: Test method signUpFromDataProviderTest
+Screenshot: C:\IdeaProjects\QA14Projects\QA14-ilCarro\screenshot\screen1623921100820.png
+11:11:40.820 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:11:40.820 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test signUpFromDataProviderTest with data: [fName, sName, fNamess+1@gm.co, Fnnnnn123456]
+11:11:40.820 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:11:40.836 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:11:40.836 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:11:40.845 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:11:40.885 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: form.signup__fields
+11:11:40.901 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: form.signup__fieldsfound. 
+11:11:40.901 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:11:40.917 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:11:40.961 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:11:40.985 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:11:41.061 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:11:41.093 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:11:41.163 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:11:41.187 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:11:41.270 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:11:41.294 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:11:41.391 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:11:41.415 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:11:41.609 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:11:41.633 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:11:41.735 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:11:41.759 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:11:41.916 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #check_policy
+11:11:41.948 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #check_policyfound. 
+11:11:42.043 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:11:42.067 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:11:42.167 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:11:52.203 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:11:52.203 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Login form present. Actual result: false. Expected result: true.
+11:11:52.203 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:12:02.273 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:12:02.715 [Test worker] ERROR com.ilCarro.qa14.tests.TestBase - FAILED: Test method signUpFromDataProviderTest
+Screenshot: C:\IdeaProjects\QA14Projects\QA14-ilCarro\screenshot\screen1623921122715.png
+11:12:02.715 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================
+11:12:02.715 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start test signUpTest with data: []
+11:12:02.715 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:12:02.730 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:12:02.730 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [href='/signup']
+11:12:02.746 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [href='/signup']found. 
+11:12:02.795 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: form.signup__fields
+11:12:02.811 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: form.signup__fieldsfound. 
+11:12:02.811 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:12:02.819 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:12:02.855 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #first_name
+11:12:02.863 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #first_namefound. 
+11:12:02.903 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:12:02.911 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:12:02.940 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #second_name
+11:12:02.953 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #second_namefound. 
+11:12:03.001 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:12:03.017 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:12:03.065 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #email
+11:12:03.089 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #emailfound. 
+11:12:03.321 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:12:03.345 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:12:03.417 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #password
+11:12:03.449 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #passwordfound. 
+11:12:03.601 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: #check_policy
+11:12:03.625 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: #check_policyfound. 
+11:12:03.713 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: [type='submit']
+11:12:03.753 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: [type='submit']found. 
+11:12:03.841 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - Start search By.cssSelector: .Login_login__right_block__1niYm
+11:12:13.866 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - By.cssSelector: .Login_login__right_block__1niYmfound. 
+11:12:14.468 [Test worker] ERROR com.ilCarro.qa14.tests.TestBase - FAILED: Test method signUpTest
+Screenshot: C:\IdeaProjects\QA14Projects\QA14-ilCarro\screenshot\screen1623921134468.png
+11:12:14.468 [Test worker] INFO  com.ilCarro.qa14.tests.TestBase - ====================================

@@ -26,7 +26,7 @@ public class LoginTests extends TestBase {
         app.header().isLogoutTabPresent();
     }
 
-    @Test(dataProvider = "loginPositiveTestFromCSV", dataProviderClass = DataProviders.class)
+    @Test(enabled = false, dataProvider = "loginPositiveTestFromCSV", dataProviderClass = DataProviders.class)
     public void loginRegisteredUserPositiveFromCSVTest(User user) throws InterruptedException {
 
         app.user().clickOnLoginTab();
@@ -50,7 +50,8 @@ public class LoginTests extends TestBase {
         app.user().isLogInFormPresent();
     }
 
-    @Test(dataProvider = "loginNegativeTestFromCSV", dataProviderClass = DataProviders.class)
+    @Test(enabled = false, dataProvider = "loginNegativeTestFromCSV", dataProviderClass = DataProviders.class)
+    //@Test(dataProvider = "loginNegativeTestFromCSV", dataProviderClass = DataProviders.class)
     public void loginRegisteredUserWithWrongPasswordNegativeFromCSVTest(User user) {
 
         app.user().clickOnLoginTab();
